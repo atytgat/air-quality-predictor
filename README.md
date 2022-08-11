@@ -1,10 +1,10 @@
 # Predicting the concentration of fine particles (PM2.5) in the air of Beijing.
 
-A neural network is trained to predict the air-quality in Beijing based on the concentration of certain particles, the
-temperature, precipitation, wind speed etc.
+A neural network is trained to predict the air quality in Beijing based on the concentration of certain particles, the
+temperature, precipitation, wind speed, etc.
 
 # Data
-The dataset used contains hourly air pollutants data from 12 nationally controlled air-quality monitoring sites. The air-quality data are from the Beijing Municipal Environmental Monitoring Center. The meteorological data in each air-quality site are matched with the nearest weather station from the China Meteorological Administration. The time period is from March 1st, 2013 to February 28th, 2017 [2].
+The dataset used contains hourly air pollutants data from 12 nationally controlled air-quality monitoring sites. The air-quality data are from the Beijing Municipal Environmental Monitoring Center. The meteorological data in each air-quality site are matched with the nearest weather station from the China Meteorological Administration. The time period is from March 1st, 2013 to February 28th, 2017.
 
 There are a total of 15 features used to predict the PM2.5 concentration
 1. year: year of data Input Variable
